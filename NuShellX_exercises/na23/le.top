@@ -1,0 +1,129 @@
+nr 0.,10.,0.,    6.00
+ts 1.,1.3
+ax
+r
+fi 4.,7.,1.,6.                                                   
+0.,  5.00,  5.00,  5.00
+ -1.00,  6.00,0.5,1.,E (MeV)
+ds linef
+lw  1.00
+dl 1.0,  -0.700,$( 23)Na
+dl   3.0,  -0.700,usdb      
+co red
+ds line
+di 
+     0.500     0.000
+     1.000     0.000
+ds fir
+di 
+     1.000     0.000
+dl    1.100,  -0.100, 3/2+
+co red
+ds line
+di 
+     0.500     0.399
+     1.200     0.399
+ds fir
+di 
+     1.200     0.399
+dl    1.300,   0.299, 5/2+
+co red
+ds line
+di 
+     0.500     2.168
+     1.400     2.168
+ds fir
+di 
+     1.400     2.168
+dl    1.500,   2.068, 7/2+
+co red
+ds line
+di 
+     0.500     2.173
+     0.800     2.173
+ds fir
+di 
+     0.800     2.173
+co red
+ds line
+di 
+     0.500     2.722
+     1.000     2.722
+ds fir
+di 
+     1.000     2.722
+co red
+ds line
+di 
+     0.500     2.762
+     1.600     2.762
+ds fir
+di 
+     1.600     2.762
+dl    1.700,   2.662, 9/2+
+co red
+ds line
+di 
+     0.500     3.749
+     1.200     3.749
+ds fir
+di 
+     1.200     3.749
+co red
+ds line
+di 
+     0.500     4.463
+     0.800     4.463
+ds fir
+di 
+     0.800     4.463
+co red
+ds line
+di 
+     0.500     4.662
+     1.400     4.662
+ds fir
+di 
+     1.400     4.662
+co red
+ds line
+di 
+     0.500     5.245
+     1.400     5.245
+ds fir
+di 
+     1.400     5.245
+co red
+ds line
+di 
+     0.500     5.422
+     1.200     5.422
+ds fir
+di 
+     1.200     5.422
+co red
+ds line
+di 
+     0.500     5.590
+     1.800     5.590
+ds fir
+di 
+     1.800     5.590
+dl    1.900,   5.490,11/2+
+co red
+ds line
+di 
+     0.500     5.793
+     1.200     5.793
+ds fir
+di 
+     1.200     5.793
+co red
+ds line
+di 
+     0.500     5.827
+     1.000     5.827
+ds fir
+di 
+     1.000     5.827
+co black
